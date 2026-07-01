@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning **Kubernetes, Terraform & AWS**
 - 👯 I'm looking to collaborate on **Open Source DevOps tools**
 - 💬 Ask me about **Docker, Jenkins, CI/CD, Linux, Cloud**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **vipintomar823@gmail.com**
 - ⚡ Fun fact: **I automate things even when manual is faster, just for fun!**
 
 ---
@@ -131,7 +131,7 @@
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:vipintomar823@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
