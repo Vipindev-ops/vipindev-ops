@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Your Name</h1>
+<h1 align="center">Hi there 👋, I'm VIPIN TOMAR</h1>
 <h3 align="center">A passionate DevOps Engineer who loves automating everything</h3>
 
 <p align="center">
@@ -82,7 +82,7 @@
 - 🌱 I'm currently learning **Kubernetes, Terraform & AWS**
 - 👯 I'm looking to collaborate on **Open Source DevOps tools**
 - 💬 Ask me about **Docker, Jenkins, CI/CD, Linux, Cloud**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **vipintomar823@gmail.com**
 - ⚡ Fun fact: **I automate things even when manual is faster, just for fun!**
 
 ---
@@ -125,7 +125,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/Vipin Tomar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
@@ -138,4 +138,4 @@
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/yourusername">yourusername</a></p>
+<p align="center">⭐️ From <a href="https://github.com/yourusername">Vipindev-ops</a></p>
